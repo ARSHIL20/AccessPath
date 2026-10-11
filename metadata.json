@@ -1,0 +1,6 @@
+{
+  "name": "AccessPath",
+  "description": "Accessibility feedback on public places featuring multi-tag filters, score badges, community reviews, and AI feedback summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
